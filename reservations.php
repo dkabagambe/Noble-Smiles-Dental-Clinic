@@ -5,7 +5,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $subject = $_POST['subject'];
     $message = $_POST['message'];
     
-    $to = 'abdulsalaamh@gmail.Com';
+    $to = 'info@noble-smiles.com';
     $subject = 'General Inquiry';
     
     $message = "Name: $name\n\n";
